@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar sample web application
+Hello to the AWS CodeStar sample web application
 ==================================================
 
 This sample code helps get you started with a simple Django web application
